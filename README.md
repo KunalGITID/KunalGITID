@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kunal
 
-<!--
-**KunalGITID/KunalGITID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at SRM Institute of Science and Technology, Kattankulathur.
+I build tools I use every day and try to ship them properly: tests, CI, real users.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[AcadKit](https://github.com/KunalGITID/Acadkit)**: an academic companion PWA for SRM KTR students.
+Attendance margins, marks and grade targets, the Day Order timetable, deadlines, and a synced study folder.
+Works offline and syncs across devices.
+React · TypeScript · TanStack Query · Supabase (Postgres, RLS, Edge Functions) · Vite PWA
+→ [acadkit.vercel.app](https://acadkit.vercel.app)
+
+**[ATLER](https://github.com/KunalGITID/ATLER)**: expense and subscription tracker.
+JavaScript · Supabase with row-level security
+
+### Next up
+
+- End-to-end and row-level-security tests for AcadKit
+- A Postgres-backed job queue in Go (retries, idempotency, metrics)
+
+### Stack
+
+TypeScript, React, Java, SQL/Postgres, Supabase. Learning Go.## Hi there 👋
+
+
