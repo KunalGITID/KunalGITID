@@ -21,6 +21,6 @@ JavaScript · Supabase with row-level security
 
 ### Stack
 
-TypeScript, React, Java, SQL/Postgres, Supabase. Learning Go.## Hi there 👋
+TypeScript, React, Java, SQL/Postgres, Supabase. 
 
 
