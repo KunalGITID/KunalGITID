@@ -12,7 +12,7 @@ React · TypeScript · TanStack Query · Supabase (Postgres, RLS, Edge Functions
 → [acadkit.vercel.app](https://acadkit.vercel.app)
 
 **[ATLER](https://github.com/KunalGITID/ATLER)**: an personal expense and subscription tracker.
-JavaScript · Supabase with row-level security
+TypeScript · Supabase with row-level security
 
 ### Next up
 
